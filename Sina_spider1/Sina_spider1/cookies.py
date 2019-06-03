@@ -32,9 +32,7 @@ logging.getLogger("selenium").setLevel(logging.WARNING)  # 将selenium的日志�
 或者你也可以把时间间隔调大点。
 """
 myWeiBo = [
-   {'no':'13117536356','psw':'lcl1402111'},
-   {'no':'1053390825@qq.com','psw':'1126miao'},
-  # {'no':'18873395070','psw':'1997tsq'}
+   {'no':'','psw':''}
 ]
 def getExactly(im):
     """ 精确剪切"""
